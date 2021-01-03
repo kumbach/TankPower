@@ -1,0 +1,9 @@
+This game is intended to be played online against friends. However,
+<color=yellow>IT HAS NO CHEAT PROTECTION!</color>
+
+<color=green>Play against people you trust.</color>
+
+The game supports up to 100 concurrent players only.
+
+Submit bugs or feature requests to
+kumbach@gmail.com
