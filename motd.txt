@@ -1,10 +1,10 @@
 1.0.3
 BULLETIN BOARD 
 -------------------
-This game is intended to be played online against friends. However,
-<color=yellow>IT HAS NO CHEAT PROTECTION!</color>
+Welcome to Tank Power. This game is a work in progress.
 
-<color=green>Play against people you trust.</color>
+Multiplayer Notice: This game <color=yellow>HAS NO CHEAT PROTECTION!</color>
+so if you come across cheaters, just play against people you trust.
 
 The game supports up to 100 concurrent players only.
 
