@@ -3,19 +3,6 @@ BULLETIN BOARD JAN-3-2020
 ---
 This game is a work in progress and may contain a bug or two. Be aware there is no multi-player cheat protection in this game. 
 
-Currently seeking 2D artist to replace the game graphics.
-
 Game manual:
 https://github.com/kumbach/TankPower/wiki
 
-Report bugs or submit feature requests here:
-https://github.com/kumbach/TankPower/issues
-
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
-test test test test test test test test test test test test 
