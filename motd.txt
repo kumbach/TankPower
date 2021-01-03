@@ -1,8 +1,12 @@
 1.0.3
 BULLETIN BOARD JAN-3-2020
----------------------------------
+---
 This game is a work in progress.
 
-Visit the Tank Power wiki for the game manual:
+Game manual:
 https://github.com/kumbach/TankPower/wiki
+
+Report bugs or feature requests here:
+https://github.com/kumbach/TankPower/issues
+
 
