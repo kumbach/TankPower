@@ -1,26 +1,8 @@
 1.0.3
-BULLETIN BOARD    Jan-3-2020
-------------------------------
+BULLETIN BOARD JAN-3-2020
+---------------------------------
 This game is a work in progress.
 
-This game <color=yellow>HAS NO CHEAT PROTECTION!</color>
-
-Submit bugs or feature requests to
-kumbach@gmail.com
-
-HOW TO PLAY:
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-alkj sdflak jsdfljka sdflkjasdf lkjasd fl jk
-
+Visit the Tank Power wiki for the game manual:
+https://github.com/kumbach/TankPower/wiki
 
