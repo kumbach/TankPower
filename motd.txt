@@ -10,5 +10,5 @@ The game supports up to 100 concurrent players only.
 
 Submit bugs or feature requests to
 kumbach@gmail.com
-
-JAN-03-2020
+---
+January 3, 2020
