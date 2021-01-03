@@ -1,3 +1,4 @@
+1.0.3
 BULLETIN BOARD
 --------------------
 This game is intended to be played online against friends. However,
