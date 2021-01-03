@@ -1,3 +1,5 @@
+BULLETIN BOARD
+--------------------
 This game is intended to be played online against friends. However,
 <color=yellow>IT HAS NO CHEAT PROTECTION!</color>
 
