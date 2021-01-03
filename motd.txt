@@ -1,6 +1,6 @@
 1.0.3
-BULLETIN BOARD
---------------------
+BULLETIN BOARD JAN 3,2020
+--------------------------
 This game is intended to be played online against friends. However,
 <color=yellow>IT HAS NO CHEAT PROTECTION!</color>
 
