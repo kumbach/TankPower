@@ -1,6 +1,7 @@
 1.0.3
-BULLETIN BOARD JAN-3-2020
----
+BULLETIN BOARD 
+JAN-3-2020
+
 This game is a work in progress and may contain a bug or two. 
 
 Be aware there is no multi-player cheat protection in this game so choose your opponents wisely. 
