@@ -3,7 +3,7 @@ BULLETIN BOARD
 
 This game is a work in progress and may contain a bug or two. 
 
-All helicopter pilot licenses has been revoked!
+<color=yellow>All helicopter pilot licenses have been revoked!</color>
 
 Game manual:
 https://github.com/kumbach/TankPower/wiki
