@@ -1,9 +1,9 @@
-1.0.5
+1.0.6
 BULLETIN BOARD 
 
-This game is a work in progress and may contain a bug or two. 
-
-<color=yellow>The game has been set back to the original rules.</color>
+<color=yellow>What's new?</color>
+* Slower tanks can carry more soldiers.
+* Fixed bug where green buildings would not spawn green soliders.
 
 Game manual:
 https://github.com/kumbach/TankPower/wiki
