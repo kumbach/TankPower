@@ -3,10 +3,11 @@ BULLETIN BOARD
 
 <color=yellow>What's new?</color>
 * Slower tanks can carry more soldiers.
-* Fixed bug where green buildings would not spawn green soliders.
+* Fixed bug where green buildings would never spawn green soliders.
+* Tweaked mines to kill tanks most of the time but not always.
 
 Game manual:
 https://github.com/kumbach/TankPower/wiki
 
 --
-JAN-7-2020
+JAN-8-2020
