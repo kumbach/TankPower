@@ -1,4 +1,4 @@
-1.0.23
+1.0.25
 BULLETIN BOARD 
 
 <color=yellow>What's new?</color>
