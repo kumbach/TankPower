@@ -1,6 +1,5 @@
 1.0.43
-BULLETIN BOARD 
-
+$MOTD
 <color=yellow>What's new?</color>
 * Lots.
 
@@ -9,3 +8,6 @@ https://github.com/kumbach/TankPower/wiki
 
 --
 MAY-16-2021
+$BLACKLIST
+BOB
+BUMJAB
